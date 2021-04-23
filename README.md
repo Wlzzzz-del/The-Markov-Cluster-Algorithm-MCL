@@ -26,5 +26,5 @@ I will try to combine these two algorithm in the future.And optimize the way of 
 we can seperate the matrix to some block and store in disk, and write w/r functions.
 
 # how to find me?
-my blog: melowlz.top
+my blog: melowlz.top  
 my wechat: xxscoder
